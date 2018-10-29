@@ -86,6 +86,6 @@ fabric.properties
 
 # Sonarlint plugin
 .idea/sonarlint
-
+*.csv
 
 # End of https://www.gitignore.io/api/pycharm,jupyternotebook
